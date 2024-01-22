@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "183847582748",
+    "firebase_url": "https://tipsysip-8403c-default-rtdb.firebaseio.com",
+    "project_id": "tipsysip-8403c",
+    "storage_bucket": "tipsysip-8403c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183847582748:android:58952cf2772c02f23fb3d9",
+        "android_client_info": {
+          "package_name": "com.example.tipsysip_distributer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-2Vdj_-5ev7XDbpOvekVEQp8sgdjGm1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183847582748:android:cf5b9c0fe51d4e613fb3d9",
+        "android_client_info": {
+          "package_name": "com.tipsysip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-2Vdj_-5ev7XDbpOvekVEQp8sgdjGm1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
